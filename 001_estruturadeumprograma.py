@@ -6,5 +6,5 @@ def main():
     pass
 
 #------------------------
-#chamada da funcao principal, irá executar o programa
+#chamada da funçao principal, irá executar o programa
     main()
