@@ -14,3 +14,10 @@ def main():
 
     print(primeira_lista)
 main()
+
+# Métodos alternativos de criar listas
+
+lista = [1,2,3,4]
+lista2 = ['a','b','c']
+lista3 = ['a','b',2,3]
+lista_alunos = []
