@@ -79,6 +79,6 @@ print(lista2)
 
 # Oitava Função: Len => Retorna o tamanho da lista
 
-ls = ['t','e','s','t','e']
+s = ['t','e','s','t','e']
 print(len(s))
 5

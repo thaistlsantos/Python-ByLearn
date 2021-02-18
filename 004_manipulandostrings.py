@@ -46,7 +46,7 @@ print(palavra[:]) # print(palavra)
 
 #Concatenar Strings (somar)
 
-string = 'Fe' + 'Li' + 'Pe'In [103]:
+string = 'Fe' + 'Li' + 'Pe'
 print(string)
 
 print('Fe'+'li'+'pe')
