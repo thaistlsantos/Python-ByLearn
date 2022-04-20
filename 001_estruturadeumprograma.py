@@ -1,10 +1,9 @@
-# O básico da programação
-# def -> Define uma função 
+# def -> Define uma função
 
 def main():
-    #Comandos
+    # Comandos
     pass
 
-#------------------------
-#chamada da funçao principal, irá executar o programa
+# ------------------------
+# chamada da funçao principal, irá executar o programa
     main()

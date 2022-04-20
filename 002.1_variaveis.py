@@ -1,4 +1,4 @@
-#Set > Setando > Atribuindo um valor
+#Set > Setando > Atribuindo um valor a uma variável
 #Get > Chama a variável > Recupera seu valor
 
 # Desafio Exercício 2.1
