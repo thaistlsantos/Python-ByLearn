@@ -1,4 +1,3 @@
 # Python-ByLearn
-Aprendizados da Linguagem Python
 
-Curso ByLearn
+Python - Aprendizados da Linguagem de Programação no Curso da ByLearn
