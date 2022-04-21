@@ -33,3 +33,14 @@ lista = [1, 2, 3, 4]
 lista2 = ['a', 'b', 'c']
 lista3 = ['a', 'b', 2, 3]
 lista_alunos = []
+
+print(lista, lista2, lista3, lista_alunos)
+
+
+# Funções built in são funções externas
+
+lista_built_in = list()  # equivale a lista = []
+variavel_para_lista = 12
+lista_built_in_cheia = list(['a', 2, variavel_para_lista])
+
+print(lista_built_in_cheia)
