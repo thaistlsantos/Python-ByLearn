@@ -1,5 +1,5 @@
-#Set > Setando > Atribuindo um valor a uma variável
-#Get > Chama a variável > Recupera seu valor
+# Set > Setando > Atribuindo um valor a uma variável
+# Get > Chama a variável > Recupera seu valor
 
 # Desafio Exercício 2.1
 # Dado dois valores 'a' e 'b' calcule a soma:
@@ -11,4 +11,3 @@ soma = a + b
 print("O tipo de A é: ", type(a))
 print("O tipo de B é: ", type(b))
 print("Soma: ", soma)
-

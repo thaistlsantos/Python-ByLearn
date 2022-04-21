@@ -6,4 +6,6 @@ def main():
     num2 = float(input("Digite o segundo número: "))
     resp = num1 / num2
     print('O valor da divisão entre {} e {} é: {}'.format(num1, num2, resp))
+
+
 main()
