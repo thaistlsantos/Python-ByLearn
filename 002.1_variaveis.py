@@ -2,6 +2,7 @@
 # Get > Chama a variável > Recupera seu valor
 
 # Desafio Exercício 2.1
+
 # Dado dois valores 'a' e 'b' calcule a soma:
 
 a = int(input("Digite o primeiro número: "))

@@ -1,4 +1,5 @@
 # Desafio Exercício 2.4
+
 # Fazer uma função que divida dois números entrados pelo usuário
 
 def main():

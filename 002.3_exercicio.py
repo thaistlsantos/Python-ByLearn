@@ -2,11 +2,14 @@
 
 # Fazer uma função que multiplique dois números entrados pelo usuário:
 
+from unittest import result
+
+
 def main():
     num1 = int(input("Digite o primeiro número: "))
     num2 = int(input("Digite o segundo número: "))
-    resp = num1 * num2
-    print('O valor da multiplicação é: ', resp)
+    resul = num1 * num2
+    print('O valor da multiplicação é: ', resul)
 
 
 main()
